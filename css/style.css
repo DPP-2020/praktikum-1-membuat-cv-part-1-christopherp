@@ -1,18 +1,18 @@
 html, body{
-    height: 100%;
+    height: auto;
 }
 
 .main{
     width: 100%;
     max-width: 700px;
-    height: 100%;
+    height: auto;
     display: flex;
     color: white;
 }
 
 .leftBar{
     background-color: black;
-    height: 100%;
+    height: auto;
     width: 100%;
     padding: 10px 15px;
 }
@@ -32,7 +32,7 @@ html, body{
 
 .rightBar{
     background-color: chocolate;
-    height: 100%;
+    height: auto;
     width: 100%;
 }
 
@@ -49,6 +49,7 @@ html, body{
 
 .infoContent{
     font-size: 12px;
+    margin: 3px 0px;
 }
 
 .isiContent{
@@ -74,4 +75,15 @@ html, body{
 .softwareBarRight{
     height: auto;
     background-color: grey;
+}
+
+.expContent{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.experience{
+    display: flex;
+    margin: 5px 0px;
 }
