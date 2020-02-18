@@ -36,3 +36,21 @@ html, body{
     width: 100%;
 }
 
+.titleContent{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.judul{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 2px 0px;
+}
+
+.infoContent{
+    font-size: 12px;
+}
+
+.isiContent{
+    margin: 1px 0px;
+}
