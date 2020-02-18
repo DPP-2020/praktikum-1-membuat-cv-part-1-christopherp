@@ -54,3 +54,24 @@ html, body{
 .isiContent{
     margin: 1px 0px;
 }
+
+.listContent{
+    font-size: 14px;
+}
+
+.softwareBarContainer {
+    height: 10px;
+    display: flex;
+    margin: 6px 0px;
+}
+
+.softwareBarLeft{
+    height: auto;
+    background-color: white;
+}
+
+
+.softwareBarRight{
+    height: auto;
+    background-color: grey;
+}
